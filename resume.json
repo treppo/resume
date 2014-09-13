@@ -1,0 +1,129 @@
+{
+  "basics": {
+    "name": "Christian Treppo",
+    "label": "Software Engineer",
+    "picture": "https://en.gravatar.com/userimage/56532355/548c5866f75d8e6cc5c8bb209aec18a6?size=200",
+    "email": "christian@treppo.org",
+    "phone": "+49 151 21614546 ",
+    "website": "http://treppo.org",
+    "summary": "",
+    "location": {
+      "address": "Hermannstraße 177",
+      "postalCode": "12051",
+      "city": "Berlin",
+      "countryCode": "D",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "treppo",
+        "url": "https://github.com/treppo"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Wimdu Gmbh",
+      "position": "Software Engineer",
+      "website": "https://wimdu.com",
+      "startDate": "2012-02-01",
+      "endDate": "2013-09-01",
+      "summary": "Starting as a frontend developer on a big Rails application, but migrating over time to full–stack development. I became especially interested in test–driven development and the effectiveness of test–driven application design.",
+      "highlights": [
+        "Project lead: Make frontend for most visited pages responsive",
+        "Project lead: Rewrite messy, unmaintainable frontend code for most visited pages using Backbone–JS, Coffeescript, AMD modules with Require–JS in a test–driven fashion",
+        "Search page overhaul—migrate Solr to Elastic, optimize database queries, speed improvements, refactor classes and Rspec tests along the way, implement map–based search",
+        "Promote importance of TDD and testing best practices in the development team",
+        "Migrate frontend to Rails' asset pipeline"
+      ]
+    },
+    {
+      "company": "E–Furniture Gmbh",
+      "position": "Frontend–Developer",
+      "website": "https://audena.de",
+      "startDate": "2011-02-01",
+      "endDate": "2012-01-31",
+      "summary": "",
+      "highlights": [
+        "Project lead: custom made, interactive furniture configuration tool written in Coffeescript, using Raphael–JS for Canvas manipulation",
+        "Developed responsive, animated recruiting website https://bespoke.io"
+      ]
+    },
+    {
+      "company": "Ja, Panik Gbr",
+      "position": "Co–Founder :-)",
+      "website": "https://ja-panik.com",
+      "startDate": "2002-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Professional musician in independent music group Ja, Panik",
+      "highlights": [
+        "5 albums",
+        "14 singles with video clips",
+        "1 feature film",
+        "2 theater appearances",
+        "International concert tours",
+        "Chart entries in Germany and Austria",
+        "Founded own music label",
+        "Developed custom music download store (Ruby on Rails)"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "National College of Ireland",
+      "area": "Web Technologies",
+      "studyType": "Master of Science",
+      "startDate": "2013-09-01",
+      "endDate": "2014-09-05",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Technische Universität Wien",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2004-03-01",
+      "endDate": "2009-06-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "Ruby, Ruby on Rails, Sinatra",
+        "Clojure, Compojure",
+        "Coffeescript, React, Backbone, Node, Grunt/Gulp",
+        "C#, .NET MVC 5.0",
+        "Java",
+        "Unix Toolchain"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "German",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Slovak",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [],
+  "references": []
+}
