@@ -115,8 +115,20 @@
         "C#, .NET MVC 5.0",
         "Java, Python",
         "Unix Toolchain, Git, Vim et. al.",
+        "Test–driven development",
+        "Test First",
+        "Outside–in testing",
+        "Hexagonal Architecture"
+      ]
+    },
+    {
+      "name": "Project Management",
+      "level": "Master",
+      "keywords": [
         "A/B–Testing",
-        "Agile Development, TDD, Kanban & SCRUM"
+        "Agile Development",
+        "Kanban",
+        "SCRUM"
       ]
     }
   ],
