@@ -52,7 +52,7 @@
     },
     {
       "company": "Nein, Gelassenheit Digital",
-      "position": "Founder",
+      "position": "Developer",
       "startDate": "2011-04-01",
       "endDate": "2013-03-01",
       "summary": "Development of a digital download music store with Ruby on Rails"
@@ -81,7 +81,7 @@
       "website": "http://orangemoon.at",
       "startDate": "2006-03-01",
       "endDate": "2007-03-01",
-      "summary": "Development of simple websites for small customers"
+      "summary": "Development of simple websites (Html, Css, Javascript, no backend) for small customers"
     }
   ],
   "volunteer": [],
