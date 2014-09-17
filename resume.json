@@ -141,6 +141,28 @@
       "fluency": "Basic"
     }
   ],
-  "interests": [],
+  "interests": [{
+      "name": "Typography",
+      "keywords": [
+        ""
+      ]
+    },
+    {
+      "name": "Politics & history",
+      "keywords": [
+        ""
+      ]
+    },{
+      "name": "Music (obviously)",
+      "keywords": [
+        ""
+      ]
+    },{
+      "name": "Science in general",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
   "references": []
 }
