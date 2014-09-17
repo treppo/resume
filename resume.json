@@ -47,8 +47,15 @@
       "summary": "",
       "highlights": [
         "Project lead: custom made, interactive furniture configuration tool written in Coffeescript, using Raphael–JS for Canvas manipulation",
-        "Developed responsive, animated recruiting website https://bespoke.io"
+        "Developed responsive, animated recruiting website with Ruby on Rails – https://bespoke.io"
       ]
+    },
+    {
+      "company": "Nein, Gelassenheit Digital",
+      "position": "Founder",
+      "startDate": "2011-04-01",
+      "endDate": "2013-03-01",
+      "summary": "Development of a digital download music store with Ruby on Rails"
     },
     {
       "company": "Ja, Panik Gbr",
@@ -67,6 +74,14 @@
         "Founded own music label",
         "Developed custom music download store (Ruby on Rails)"
       ]
+    },
+    {
+      "company": "Orange Moon",
+      "position": "Webdesign",
+      "website": "http://orangemoon.at",
+      "startDate": "2006-03-01",
+      "endDate": "2007-03-01",
+      "summary": "Development of simple websites for small customers"
     }
   ],
   "volunteer": [],
