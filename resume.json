@@ -29,7 +29,7 @@
       "website": "https://wimdu.com",
       "startDate": "2012-02-01",
       "endDate": "2013-09-01",
-      "summary": "Starting as a frontend developer on a big Rails application, but migrating over time to full–stack development. I became especially interested in test–driven development and the effectiveness of test–driven application design.",
+      "summary": "I started as a frontend developer on a big Rails application that serves million of customers around the world, but soon I migrated over time to full–stack development. I became especially interested in test–driven development and the effectiveness of test–driven application design.",
       "highlights": [
         "Project lead: Make frontend for most visited pages responsive",
         "Project lead: Rewrite messy, unmaintainable frontend code for most visited pages using Backbone–JS, Coffeescript, AMD modules with Require–JS in a test–driven fashion",
@@ -116,8 +116,10 @@
         "Clojure, Compojure",
         "Coffeescript, React, Backbone, Node, Grunt/Gulp",
         "C#, .NET MVC 5.0",
-        "Java",
-        "Unix Toolchain"
+        "Java, Python",
+        "Unix Toolchain, Git, Vim et. al.",
+        "A/B–Testing",
+        "Agile Development, TDD, Kanban & SCRUM"
       ]
     }
   ],
