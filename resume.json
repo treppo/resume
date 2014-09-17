@@ -84,7 +84,6 @@
       "summary": "Development of simple websites (Html, Css, Javascript, no backend) for small customers"
     }
   ],
-  "volunteer": [],
   "education": [
     {
       "institution": "National College of Ireland",
@@ -105,8 +104,6 @@
       "courses": []
     }
   ],
-  "awards": [],
-  "publications": [],
   "skills": [
     {
       "name": "Web Development",
@@ -143,26 +140,21 @@
   ],
   "interests": [{
       "name": "Typography",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     },
     {
       "name": "Politics & history",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     },{
       "name": "Music (obviously)",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     },{
       "name": "Science in general",
-      "keywords": [
-        ""
-      ]
+      "keywords": []
     }
   ],
-  "references": []
+  "references": [{}],
+  "awards": [{}],
+  "volunteer": [{}],
+  "publications": [{}]
 }
