@@ -27,6 +27,22 @@
       "company": "Wimdu Gmbh",
       "position": "Software Engineer",
       "website": "https://wimdu.com",
+      "startDate": "2014-11-01",
+      "endDate": "2015-02-09",
+      "summary": "Going back to Wimdu for a short period, working in the platform engineering",
+      "highlights": [
+        "Rearchitecturing the Search Service to asynchronously run bulk indexing against Elasticsearch, using a Sidekiq queue",
+        "Research and create prototypes for a move to microservices",
+        "Using JSON–Schema validations as contracts between services",
+        "Profile json-schema gem (https://github.com/ruby-json-schema/json-schema) to improve some performance bottlenecks we stumbled upon",
+        "Doing devops: provisioning servers and deploying application with test–driven Chef recipes and Kitchen",
+        "Experiencing a development team full of good engineers implode because of an incompetent CTO"
+      ]
+    },
+    {
+      "company": "Wimdu Gmbh",
+      "position": "Software Engineer",
+      "website": "https://wimdu.com",
       "startDate": "2012-02-01",
       "endDate": "2013-09-01",
       "summary": "I started as a frontend developer on a big Rails application that serves million of customers around the world, but soon I migrated over time to full–stack development. I became especially interested in test–driven development and the effectiveness of test–driven application design.",
@@ -115,6 +131,7 @@
         "C#, .NET MVC 5.0",
         "Java, Python",
         "Unix Toolchain, Git, Vim et. al.",
+        "Devops, Chef, Kitchen",
         "Test–driven development",
         "Test First",
         "Outside–in testing",
