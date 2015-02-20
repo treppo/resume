@@ -36,7 +36,7 @@
         "Using JSON–Schema validations as contracts between services",
         "Profile json-schema gem (https://github.com/ruby-json-schema/json-schema) to improve some performance bottlenecks we stumbled upon",
         "Doing devops: provisioning servers and deploying application with test–driven Chef recipes and Kitchen",
-        "Experiencing a development team full of good engineers implode because of an incompetent CTO"
+        "Experiencing a development team full of good engineers implode because of an incompatible CTO"
       ]
     },
     {
