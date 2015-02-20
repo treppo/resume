@@ -29,7 +29,7 @@
       "website": "https://wimdu.com",
       "startDate": "2014-11-01",
       "endDate": "2015-02-09",
-      "summary": "Going back to Wimdu for a short period, working in the platform engineering",
+      "summary": "Going back to Wimdu for a short period, working in the platform engineering team",
       "highlights": [
         "Rearchitecturing the Search Service to asynchronously run bulk indexing against Elasticsearch, using a Sidekiq queue",
         "Research and create prototypes for a move to microservices",
